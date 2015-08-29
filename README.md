@@ -20,10 +20,10 @@ bower install --save mi
 
 ### How to use
 
-Place a link to `mi` in your header, it should look something like this.
+Place a link to `material-icons` in your header, it should look something like this.
 
 ```html
-<link rel="stylesheet" href="bower_components/mi/material-icons.css">
+<link rel="stylesheet" href="bower_components/material-icons/material-icons.css">
 ```
 
 ### Example:
