@@ -31,3 +31,5 @@ Place a link to `mi` in your header, it should look something like this.
 ```html
 <i class="material-icons">favorite</i>
 ```
+
+You can find all icons [here](https://www.google.com/design/icons/)
