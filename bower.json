@@ -1,0 +1,22 @@
+{
+  "name": "material-icons",
+  "description": "material design icons provided by bower ",
+  "main": [],
+  "keywords": [
+    "material",
+    "design",
+    "icon",
+    "font"
+  ],
+  "authors": [
+    "Marvin Engelmann <dev@marvinengelmann.de>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
