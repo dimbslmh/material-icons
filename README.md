@@ -23,7 +23,7 @@ bower install --save mi
 Place a link to `material-icons` in your header, it should look something like this.
 
 ```html
-<link rel="stylesheet" href="bower_components/material-icons/material-icons.css">
+<link rel="stylesheet" href="bower_components/material-icons/css/material-icons.css">
 ```
 
 ### Example:
