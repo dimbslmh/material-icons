@@ -3,7 +3,8 @@
 ## Why?
 
 
-I prefer all my assets provided by bower so I decided to host it here and make it downloadable with bower. I know that there are already `bower`ed icon-fonts, but I just want the icon-font files, no svg, png etc. and I want it to work with `material-design-lite` as well.
+I prefer all my assets provided by bower so I decided to host it here and make it downloadable with bower. I know that there are already `bower`ed icon-fonts, but I just want the icon-font files, no svg, png etc. and I want it to work with `material-design-lite` as well. <br>
+This icon-font is officially from [google](https://github.com/google/material-design-icons).
 
 
 ## Getting started
@@ -22,7 +23,7 @@ bower install --save mi
 Place a link to `mi` in your header, it should look something like this.
 
 ```html
-<link rel="import" href="bower_components/mi/material-icons.css">
+<link rel="stylesheet" href="bower_components/mi/material-icons.css">
 ```
 
 ### Example:
